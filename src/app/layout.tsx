@@ -34,7 +34,8 @@ export const metadata: Metadata = {
     description: "We study businesses, identify operational bottlenecks, design intelligent systems, and build connected products that help businesses unlock their hidden potential.",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "/logo.png",
+    apple: "/logo.png",
   },
 };
 
